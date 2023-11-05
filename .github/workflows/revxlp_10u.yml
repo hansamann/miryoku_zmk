@@ -7,4 +7,5 @@ jobs:
     with:
       board: '["seeeduino_xiao_ble"]'
       shield: '["revxlp"]'
+      clipboard: '["mac"]'
 
